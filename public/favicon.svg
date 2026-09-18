@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Encanto Kids badge">
+  <rect width="256" height="256" rx="45" fill="#F4F1EA"/>
+  <rect x="40" y="48" width="176" height="156" rx="30" fill="#4F46E5"/>
+  <path d="M70 92h118v18H70zm0 38h118v18H70zm0 38h80v18H70z" fill="#fff"/>
+  <circle cx="168" cy="142" r="22" fill="#FBBF24"/>
+  <path d="M148 142l11 11 19-23" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
